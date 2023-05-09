@@ -1,0 +1,24 @@
+{
+	"0":{
+		"id": "1",
+		"name":"Indiatoday",
+		"description":"India Today Live TV Newscast: Watch free live tv news streaming online and live tv newsflash about breaking news, sports news, entertainment and movies news, India news, world news and etc. on India Today Live TV",
+		"live_url":"https://feeds.intoday.in/livetv/ver-3-0/?id=livetv-it&amp;aud_togle=1&amp;autostart=1&amp;t_src=live_tv_page&amp;mute=1&amp;t_med=web&amp;utm_medium=web&amp;dimlight=1&amp;utm_source=live_tv_page&amp;v=1.31&amp;theme=1",
+		"thumbnail": "",
+		"facebook": "https://www.facebook.com/IndiaToday/",
+		"youtube": "https://www.youtube.com/channel/UCYPvAwZP8pZhSMW8qs7cVCw",
+		"website": "https://www.indiatoday.in/",
+		"catagory": "news"
+	},
+	"1":{
+		"id": "2",
+		"name":"Indiatoday",
+		"description":"India Today Live TV Newscast: Watch free live tv news streaming online and live tv newsflash about breaking news, sports news, entertainment and movies news, India news, world news and etc. on India Today Live TV",
+		"live_url":"https://feeds.intoday.in/livetv/ver-3-0/?id=livetv-it&amp;aud_togle=1&amp;autostart=1&amp;t_src=live_tv_page&amp;mute=1&amp;t_med=web&amp;utm_medium=web&amp;dimlight=1&amp;utm_source=live_tv_page&amp;v=1.31&amp;theme=1",
+		"thumbnail": "",
+		"facebook": "https://www.facebook.com/IndiaToday/",
+		"youtube": "https://www.youtube.com/channel/UCYPvAwZP8pZhSMW8qs7cVCw",
+		"website": "https://www.indiatoday.in/",
+		"catagory": "news"
+	},
+}
