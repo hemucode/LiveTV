@@ -1,24 +1,24 @@
 {
 	"0":{
 		"id": "1",
-		"name":"Indiatoday",
-		"description":"India Today Live TV Newscast: Watch free live tv news streaming online and live tv newsflash about breaking news, sports news, entertainment and movies news, India news, world news and etc. on India Today Live TV",
-		"live_url":"https://feeds.intoday.in/livetv/ver-3-0/?id=livetv-it&amp;aud_togle=1&amp;autostart=1&amp;t_src=live_tv_page&amp;mute=1&amp;t_med=web&amp;utm_medium=web&amp;dimlight=1&amp;utm_source=live_tv_page&amp;v=1.31&amp;theme=1",
-		"thumbnail": "",
+		"name":"ABP Ananda",
+		"description":"ABP Ananda LIVE TV:  Latest Bengali news on ABP Ananda. Follow Ghanta Khanek Sange Suman and your favorite show live. Catch Cricket World Cup 2023, TET Protest,  Panchayat Elections 2023 and others with এবিপি আনন্দ লাইভ টিভি. Bangla News 24x7 | Latest Bangla News, Bengali Breaking News | দেখুন লাইভ টিভি - এবিপি আনন্দ | Bangla News LIVE TV 24x7",
+		"live_url":"https://abplivetv.akamaized.net/hls/live/2043012/ananda/master.m3u8",
+		"thumbnail": "https://hemucode.github.io/LiveTV/thumbnail/india_today.png",
 		"facebook": "https://www.facebook.com/IndiaToday/",
 		"youtube": "https://www.youtube.com/channel/UCYPvAwZP8pZhSMW8qs7cVCw",
-		"website": "https://www.indiatoday.in/",
-		"catagory": "news"
+		"website": "https://bengali.abplive.com/",
+		"category": "news"
 	},
 	"1":{
 		"id": "2",
 		"name":"Indiatoday",
 		"description":"India Today Live TV Newscast: Watch free live tv news streaming online and live tv newsflash about breaking news, sports news, entertainment and movies news, India news, world news and etc. on India Today Live TV",
 		"live_url":"https://feeds.intoday.in/livetv/ver-3-0/?id=livetv-it&amp;aud_togle=1&amp;autostart=1&amp;t_src=live_tv_page&amp;mute=1&amp;t_med=web&amp;utm_medium=web&amp;dimlight=1&amp;utm_source=live_tv_page&amp;v=1.31&amp;theme=1",
-		"thumbnail": "",
+		"thumbnail": "https://hemucode.github.io/LiveTV/thumbnail/india_today.png",
 		"facebook": "https://www.facebook.com/IndiaToday/",
 		"youtube": "https://www.youtube.com/channel/UCYPvAwZP8pZhSMW8qs7cVCw",
 		"website": "https://www.indiatoday.in/",
-		"catagory": "news"
-	},
+		"category": "news"
+	}
 }
