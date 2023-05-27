@@ -4,8 +4,8 @@
     "name": "ABP Ananda",
     "description": "ABP Ananda LIVE TV:  Latest Bengali news on ABP Ananda. Follow Ghanta Khanek Sange Suman and your favorite show live. Catch Cricket World Cup 2023, TET Protest,  Panchayat Elections 2023 and others with এবিপি আনন্দ লাইভ টিভি. Bangla News 24x7 | Latest Bangla News, Bengali Breaking News | দেখুন লাইভ টিভি - এবিপি আনন্দ | Bangla News LIVE TV 24x7",
     "live_url": "https://abplivetv.akamaized.net/hls/live/2043012/ananda/master.m3u8",
-    "thumbnail": "https://hemucode.github.io/LiveTV/thumbnail/abp.png",
-    "facebook": "https://www.facebook.com/IndiaToday/",
+    "thumbnail": "https://hemucode.github.io/LiveTV/thumbnail/abp_big.png",
+    "facebook": "https://www.facebook.com/abpananda/",
     "youtube": "https://www.youtube.com/channel/UCYPvAwZP8pZhSMW8qs7cVCw",
     "website": "https://bengali.abplive.com/",
     "category": "news"
