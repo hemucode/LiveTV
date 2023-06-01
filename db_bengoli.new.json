@@ -1,15 +1,4 @@
 {
-  "0": {
-    "id": "1",
-    "name": "News Time",
-    "description": "The only authentic source of latest news and updates in politics, sports, entertainment, business and science. Special emphasis on Kolkata and West Bengal.",
-    "live_url": "https://yupplivefra4.yuppcdn.net/020523/smil:newstime.smil/chunklist_b1928000.m3u8",
-    "thumbnail": "https://hemucode.github.io/LiveTV/thumbnail/news_time_bangla.png",
-    "facebook": "https://www.facebook.com/newstimebangla2018/",
-    "youtube": "https://www.youtube.com/@NewsTimeBangla",
-    "website": "https://newstimebangla.com/",
-    "category": "m3u8"
-  },
   "1": {
     "id": "2",
     "name": "High News",
@@ -36,12 +25,12 @@
     "id": "4",
     "name": "DD Bangla",
     "description": "DD Bangla is an Indian Bengali-language free-to-air state-owned television channel owned by state-owned broadcaster Doordarshan Network. It was formerly known as DD-7 and DD National Kolkata.",
-    "live_url": "http://longstream-01.ajaah.com/PlayBoxTV/DDBangla/playlist.m3u8",
+    "live_url": "https://www.youtube.com/embed/live_stream?channel=UCe4GErYKwpMUJWZpxOiATYA",
     "thumbnail": "https://hemucode.github.io/LiveTV/thumbnail/dd_bangla.png",
     "facebook": "https://www.facebook.com/ddbanglatv/",
     "youtube": "https://www.youtube.com/channel/UCe4GErYKwpMUJWZpxOiATYA",
     "website": "https://prasarbharati.gov.in/dd-bangla-homepage/",
-    "category": "news"
+    "category": "yt"
   },
     "4": {
     "id": "5",
@@ -107,6 +96,39 @@
     "facebook": "https://www.facebook.com/newsrplus/",
     "youtube": "https://www.youtube.com/user/2008Rplusnews",
     "website": "https://rplus.in/",
+    "category": "m3u8"
+  },
+  "10": {
+    "id": "11",
+    "name": "News Time",
+    "description": "The only authentic source of latest news and updates in politics, sports, entertainment, business and science. Special emphasis on Kolkata and West Bengal.",
+    "live_url": "https://www.youtube.com/embed/live_stream?channel=UCbf0XHULBkTfv2hBjaaDw9Q",
+    "thumbnail": "https://hemucode.github.io/LiveTV/thumbnail/news_time_bangla.png",
+    "facebook": "https://www.facebook.com/newstimebangla2018/",
+    "youtube": "https://www.youtube.com/@NewsTimeBangla",
+    "website": "https://newstimebangla.com/",
+    "category": "yt"
+  },
+  "11": {
+    "id": "12",
+    "name": "Samay Kolkata",
+    "description": "Samay Kolkata a Bengali News Website Provides Latest News and Breaking News in Bangla. Get Today's News Headlines from Kolkata latest update in Bengali by Samay Kolkata.",
+    "live_url": "https://5dd3981940faa.streamlock.net/kbcration/kbcration/chunklist_w2015831491.m3u8",
+    "thumbnail": "https://hemucode.github.io/LiveTV/thumbnail/somoy_kolkata.png",
+    "facebook": "https://www.facebook.com/Samay-Kolkata-105604898651602",
+    "youtube": "https://www.youtube.com/@samaykolkata",
+    "website": "http://samaykolkata.com/",
+    "category": "m3u8"
+  },
+  "15": {
+    "id": "12",
+    "name": "News Bartaman",
+    "description": "News Bartaman 24x7 - খবরের উড়ান, খবরের সন্ধান - Bengali News Today - Bengali News Update - Bengali News Live - Breaking News Bangla",
+    "live_url": "https://newsbartaman24x7.livebox.co.in/newsbartamanhls/live.m3u8",
+    "thumbnail": "https://hemucode.github.io/LiveTV/thumbnail/news_Bartaman.png",
+    "facebook": "https://www.facebook.com/newsbartaman24x7",
+    "youtube": "https://www.youtube.com/channel/UCZjgaVrQgo4SIMrLBt36WiQ",
+    "website": "https://www.newsbartaman.com/",
     "category": "m3u8"
   }
 }
