@@ -1,0 +1,40 @@
+
+  "12": {
+    "id": "12",
+    "name": "News Bartaman",
+    "description": "News Bartaman 24x7 - খবরের উড়ান, খবরের সন্ধান - Bengali News Today - Bengali News Update - Bengali News Live - Breaking News Bangla",
+    "live_url": "https://newsbartaman24x7.livebox.co.in/newsbartamanhls/live.m3u8",
+    "thumbnail": "news_Bartaman.png",
+    "facebook": "https://www.facebook.com/newsbartaman24x7",
+    "youtube": "https://www.youtube.com/channel/UCZjgaVrQgo4SIMrLBt36WiQ",
+    "website": "https://www.newsbartaman.com/",
+    "category": "m3u8",    
+    "liveTvLink":"https://www.newsbartaman.com/live/",
+    "contact":"info@newsbartaman.com"
+  },
+  "13": {
+    "id": "13",
+    "name": "24 Hrs TV",
+    "description": "#24hrstv | #News | #BengaliNewsChannel About Us: 24 Hrs TV is a popular Bengali News Channel (from 2012) headquartered in Kolkata, we present nonstop ...",
+    "live_url": "http://51.79.220.95/hls/24hrs.m3u8",
+    "thumbnail": "24hrs.png",
+    "facebook": "https://www.facebook.com/24hrstvchannel",
+    "youtube": "https://www.youtube.com/24hrstv",
+    "website": "https://24hrstv.com/",
+    "category": "m3u8",    
+    "liveTvLink":"",
+    "contact":"24hrstvchannel@gmail.com"
+  },
+  "14": {
+    "id": "14",
+    "name": "Ab Barta",
+    "description": "#24hrstv | #News | #BengaliNewsChannel About Us: 24 Hrs TV is a popular Bengali News Channel (from 2012) headquartered in Kolkata, we present nonstop ...",
+    "live_url": "http://5dd3981940faa.streamlock.net:1935/abnews/abnews/chunklist_w499617133.m3u8",
+    "thumbnail": "24hrs.png",
+    "facebook": "https://www.facebook.com/24hrstvchannel",
+    "youtube": "https://www.youtube.com/24hrstv",
+    "website": "https://anandabarta.in/",
+    "category": "m3u8",    
+    "liveTvLink":"",
+    "contact":"info@newsbartaman.com"
+  }
