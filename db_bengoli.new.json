@@ -1,6 +1,6 @@
 {
-  "1": {
-    "id": "2",
+  "0": {
+    "id": "0",
     "name": "High News",
     "description": "High News is a 24-hour Bengali news channel launched by the company High Media Infotainment INDIA Ltd. in 2010. The company also runs a Bengali newspaper.",
     "live_url": "https://highmedia.livebox.co.in/HIGHNEWShls/LIVE.m3u8",
@@ -12,8 +12,8 @@
     "liveTvLink":"https://www.highnewslive.com/",
     "contact":"info@highmediaindia.com"
   },
-  "2": {
-    "id": "3",
+  "1": {
+    "id": "1",
     "name": "Republic Bangla",
     "description": "#RepublicBangla #ArnabGoswami #RBangla #RepublicBanglaLIVE AND, THE WAIT IS OVER, Republic Bangla is now LIVE with Arnab Goswami! Editor-in-Chief of the Republic Media Network Arnab Goswami is proud to formally announce the launch of Republic Bangla! The new wave of Bengali journalism is here. Watch the latest political news, fastest breaking news and most accurate election coverage only on Republic Bangla.",
     "live_url": "https://vg-republiclinear.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-439919/51a4a7cb-8993-4a88-bb82-c13934a93685/2.m3u8?ads.partner=yupptv?hdnts=st=1685443413~exp=1685447013~acl=!*/vglive-sk-439919/republicbangla/*!/payload/yuppTVCom_5_-1_27126b8e0f7845a6_IN_45.64.227.66/*~hmac=686ec826f36991992451e6140e6d14b24e924b03a5c6a97e2863c283159e4ca8&ads.app_bundle=&ads.app_store_url=&ads.content_livestream=1&ads.lang=BEN&ads.content_genre=NEWS&ads.channel=6242&sessionId=d67e503f-a33d-4d5a-af1d-756280e855f6",
@@ -25,8 +25,8 @@
     "liveTvLink":"https://bangla.republicworld.com/livetv.html",
     "contact":"contact@republicworld.com"
   },
-  "3": {
-    "id": "4",
+  "2": {
+    "id": "2",
     "name": "DD Bangla",
     "description": "DD Bangla is an Indian Bengali-language free-to-air state-owned television channel owned by state-owned broadcaster Doordarshan Network. It was formerly known as DD-7 and DD National Kolkata.",
     "live_url": "https://www.youtube.com/embed/live_stream?channel=UCe4GErYKwpMUJWZpxOiATYA",
@@ -38,8 +38,8 @@
     "liveTvLink":"https://prasarbharati.gov.in/",
     "contact":"k.sarbhai@prasarbharati.gov.in"
   },
-    "4": {
-    "id": "5",
+    "3": {
+    "id": "3",
     "name": "Kolkata TV",
     "description": "Latest News Headlines, Bengali News, Kolkata News, latest Bengali News, Top 10 News Today, Breaking News from Kolkata, India and World on Kolkata TV. Watch Latest Photos, Videos from Bollywood, Election News Updates and Kolkata TV News LIVE TV here.",
     "live_url": "https://onair.kolkatatv.org/hls/goktvlive.m3u8",
@@ -51,8 +51,8 @@
     "liveTvLink":"https://kolkatatv.org/",
     "contact":"info@kolkatatv.org"
   },
-  "5": {
-    "id": "6",
+  "4": {
+    "id": "4",
     "name": "ABP Ananda",
     "description": "ABP Ananda LIVE TV:  Latest Bengali news on ABP Ananda. Follow Ghanta Khanek Sange Suman and your favorite show live. Catch Cricket World Cup 2023, TET Protest,  Panchayat Elections 2023 and others with এবিপি আনন্দ লাইভ টিভি. Bangla News 24x7 | Latest Bangla News, Bengali Breaking News | দেখুন লাইভ টিভি - এবিপি আনন্দ | Bangla News LIVE TV 24x7",
     "live_url": "https://abplivetv.akamaized.net/hls/live/2043012/ananda/master.m3u8",
@@ -64,8 +64,8 @@
     "liveTvLink":"https://bengali.abplive.com/live-tv",
     "contact":"rajv@abpnetwork.com"
   },
-  "6": {
-    "id": "7",
+  "5": {
+    "id": "5",
     "name": "TV9 Bangla",
     "description": "TV9 Bangla LIVE TV- Watch the Latest and Breaking News LIVE in Bengali, এ দেখুন বাংলা লেটেস্ট ও ব্রেকিং নিউজ at tv9bangla.com",
     "live_url": "https://vidcdn.vidgyor.com/tv9bangla-origin/live/playlist.m3u8",
@@ -77,8 +77,8 @@
     "liveTvLink":"https://tv9bangla.com/live-tv",
     "contact":"Tv9bengali@gmail.com"
   },
-  "7": {
-    "id": "8",
+  "6": {
+    "id": "6",
     "name": "News18 বাংলা",
     "description": "News18 বাংলা - Get all breaking and latest news in Bangla on News18 Bengali. Read Bangla khobor (বাংলা খবর) on Sports, Cricket, Lifestyle, entertainment and more.",
     "live_url": "https://nw18live.cdn.jio.com/bpk-tv/News18_Bangla_NW18_MOB/output01/index.m3u8?__hdnea__=st=1685164547~exp=1685250947~acl=/*~hmac=6a2135facc3e5f3570cfc562c1adf289273e7dbc23e5ab9906c2943f04d13f08",
@@ -90,8 +90,8 @@
     "liveTvLink":"https://bengali.news18.com/live-tv/",
     "contact":"bengali@news18.com"
   },
-  "8": {
-    "id": "9",
+  "7": {
+    "id": "7",
     "name": "Zee 24 Ghanta",
     "description": "Watch 24 Ghanta live bangla khobor on Zee News Bengali. Stay updated on breaking bangla khobor online, Kolkata news, exclusive news updates only on Zee 24 Ghata.",
     "live_url": "https://d3dyw3d1wswml0.cloudfront.net/out/v1/c549619d46ce42b28649a25c12f3ee4b/index_12.m3u8",
@@ -101,10 +101,10 @@
     "website": "https://zeenews.india.com/",
     "category": "m3u8",    
     "liveTvLink":"https://zeenews.india.com/bengali/live-tv",
-    "contact":"sales@india.com"
+    "contact":"web24@24ghanta.com"
   },
-  "9": {
-    "id": "10",
+  "8": {
+    "id": "8",
     "name": "Rplus",
     "description": "Rplus presents Bengal News Live stream. If you are looking for latest Kolkata News live a 24 ghanta Bengali News in your fingertips.",
     "live_url": "https://thelegitpro.in/pntv/rplusnews24x7/tracks-v1a1/mono.m3u8",
@@ -116,8 +116,8 @@
     "liveTvLink":"https://rplus.in/live-news/",
     "contact":""
   },
-  "10": {
-    "id": "11",
+  "9": {
+    "id": "9",
     "name": "News Time",
     "description": "The only authentic source of latest news and updates in politics, sports, entertainment, business and science. Special emphasis on Kolkata and West Bengal.",
     "live_url": "https://www.youtube.com/embed/live_stream?channel=UC-drIvdQ0sZlyPXCizj4vgQ",
@@ -129,8 +129,21 @@
     "liveTvLink":"https://www.youtube.com/@NewsTimeBangla",
     "contact":"info@timesnow.tv"
   },
+  "10": {
+    "id": "10",
+    "name": "Tribe TV",
+    "description": "Tribe Tv LIVE: Read Latest News Headlines, Top 10 News Today, Breaking News from India and World on Tribe Tv LIVE. Watch Latest Photos, Videos from Bollywood",
+    "live_url": "https://server.livelegitpro.in:9899/tribetv/tribetv/tracks-v1a1/mono.m3u8",
+    "thumbnail": "tribe.png",
+    "facebook": "https://www.facebook.com/TribeTVofficial",
+    "youtube": "https://www.youtube.com/c/TribeTVofficial",
+    "website": "https://www.tribetv.in/",
+    "category": "m3u8",    
+    "liveTvLink":"https://www.tribetv.in/live-tv",
+    "contact":"info@newsbartaman.com"
+  },
   "11": {
-    "id": "12",
+    "id": "11",
     "name": "Samay Kolkata",
     "description": "Samay Kolkata a Bengali News Website Provides Latest News and Breaking News in Bangla. Get Today's News Headlines from Kolkata latest update in Bengali by Samay Kolkata.",
     "live_url": "https://5dd3981940faa.streamlock.net/kbcration/kbcration/chunklist_w2015831491.m3u8",
@@ -143,20 +156,7 @@
     "contact":" info.samaykolkata@gmail.com"
   },
   "12": {
-    "id": "13",
-    "name": "Tara News",
-    "description": "Tara Newz was an Indian Bengali-language satellite and cable 24-hour news and current affairs television channel owned by the Saradha Group, a chit fund company.",
-    "live_url": "http://139.59.6.192:8002/taranews/taranews/index.m3u8",
-    "thumbnail": "news_Bartaman.png",
-    "facebook": "https://www.facebook.com/newsbartaman24x7",
-    "youtube": "https://www.youtube.com/channel/UCZjgaVrQgo4SIMrLBt36WiQ",
-    "website": "https://www.taratvnetwork.com/",
-    "category": "m3u8",    
-    "liveTvLink":"https://www.newsbartaman.com/live/",
-    "contact":"info@newsbartaman.com"
-  },
-  "13": {
-    "id": "14",
+    "id": "12",
     "name": "News Bartaman",
     "description": "News Bartaman 24x7 - খবরের উড়ান, খবরের সন্ধান - Bengali News Today - Bengali News Update - Bengali News Live - Breaking News Bangla",
     "live_url": "https://newsbartaman24x7.livebox.co.in/newsbartamanhls/live.m3u8",
@@ -168,4 +168,82 @@
     "liveTvLink":"https://www.newsbartaman.com/live/",
     "contact":"info@newsbartaman.com"
   },
+  "13": {
+    "id": "13",
+    "name": "Ruposhi Bangla",
+    "description": "Ruposhi Bangla is a Bengali entertainment channel which was launched on 31 August 2009 with shows of different categories ranging from reality to socio-mythology, feature films to news updates and from comedy to drama.",
+    "live_url": "https://livetv-channels.b-cdn.net/8079/chunklist0.m3u8",
+    "thumbnail": "RupashiBangla.png",
+    "facebook": "https://www.facebook.com/ruposhibangla2018/",
+    "youtube": "https://www.youtube.com/channel/UCayqGyWcu1S7R-5k8UjiT-A",
+    "website": "https://ruposhibangla.in/",
+    "category": "m3u8",    
+    "liveTvLink":"https://www.youtube.com/channel/UCayqGyWcu1S7R-5k8UjiT-A",
+    "contact":"ruposhibanglanew@gmail.com"
+  },
+  "14": {
+    "id": "14",
+    "name": "News Vanguard",
+    "description": "খবরের ভাষায় মানুষের প্রতিবাদ মানুষের ভাষায় নিউজ ভ্যানগার্ড প্রত্যেকদিন লেটেস্ট নিউজ গুলি দেখার জন্য  আমাদের YouTube চ্যানেল কে Subscribe ও বেল আইকন ক্লিক করে রাখুন .",
+    "live_url": "https://www.youtube.com/embed/live_stream?channel=UC2EhA8EnLxOCbgn3nW2-OjA",
+    "thumbnail": "NewsVanguard.png",
+    "facebook": "https://www.facebook.com/NewsVanguard24x7/",
+    "youtube": "https://www.youtube.com/@NewsVanguard",
+    "website": "http://www.newsvanguard24x7.com/",
+    "category": "yt",    
+    "liveTvLink":"https://www.youtube.com/@NewsVanguard",
+    "contact":"www.newsvanguard015@gmail.com"
+  },
+  "15": {
+    "id": "15",
+    "name": "Din Raat",
+    "description": "Channel Dinraat is a Bengali-language television channel in India based at Melarmath in Agartala. Watch live streaming of Channel Dinraat any time on my app",
+    "live_url": "https://www.youtube.com/embed/live_stream?channel=UCILYNzZvWNUPaALmDJBIMAw",
+    "thumbnail": "dinRaat.png",
+    "facebook": "https://www.facebook.com/channeldinraat/",
+    "youtube": "https://www.youtube.com/@CHANNELDINRAATLIVE",
+    "website": "",
+    "category": "yt",    
+    "liveTvLink":"https://www.youtube.com/@CHANNELDINRAATLIVE",
+    "contact":"Dinraat2017@gmail.com"
+  },
+  "16": {
+    "id": "16",
+    "name": "Calcutta News",
+    "description": "News in Bengali: Read the latest news on politics, sports, business, entertainment, and more from India's leading Bengali News Portal Calcutta News.",
+    "live_url": "https://www.youtube.com/embed/live_stream?channel=UCJ3I6MHOz5exARlTW_meOGQ",
+    "thumbnail": "cn.png",
+    "facebook": "https://www.facebook.com/livecalcuttanews",
+    "youtube": "https://www.youtube.com/@calcuttanews",
+    "website": "https://calcuttanews.tv/",
+    "category": "yt",    
+    "liveTvLink":"https://www.youtube.com/@calcuttanews",
+    "contact":"Dinraat2017@gmail.com"
+  },
+  "17": {
+    "id": "17",
+    "name": "TV24 Bangla",
+    "description": "News in Bengali: Read the latest news on politics, sports, business, entertainment, and more from India's leading Bengali News Portal TV24 Bangla.",
+    "live_url": "https://www.youtube.com/embed/live_stream?channel=UCZGS4nXFSD4MFjt-diet9Mw",
+    "thumbnail": "tv24_bangla.png",
+    "facebook": "https://www.facebook.com/tv24bangla/",
+    "youtube": "https://www.youtube.com/@tv24bangla94/",
+    "website": "https://tv24bangla.co.in/",
+    "category": "yt",    
+    "liveTvLink":"https://www.youtube.com/@tv24bangla94",
+    "contact":"tv24bangla@gmail.com"
+  },
+  "18": {
+    "id": "18",
+    "name": "Akash Aath",
+    "description": "Aakash Official Channel had pledged to fulfill Bengal’s fancy towards art, culture, literature and music, and thus started this journey. We have programs which cater to every age group, flavor and trend, understanding the Bengali mindset and Bengali emotions. We provide programs of all genres like news, current affairs, non-fictions, fictions, musical programs, and cookery - an endless assortment of entertainment programs. Apart from entertainment we have also taken up the responsibility of providing a daily double dose of News content which varies from district, city, national, and world News.",
+    "live_url": "https://www.youtube.com/embed/live_stream?channel=UCoE9pRJB9TtlEm1RzY9vPdA",
+    "thumbnail": "Akash_Aath.png",
+    "facebook": "https://www.facebook.com/aakashaathofficial",
+    "youtube": "https://www.youtube.com/@AakashAathNews/",
+    "website": "https://aakashaath.com/",
+    "category": "yt",    
+    "liveTvLink":"https://www.youtube.com/@AakashAathNews/",
+    "contact":"contact@aakashaath.com"
+  }
 }
