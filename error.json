@@ -38,3 +38,18 @@
     "liveTvLink":"",
     "contact":"info@newsbartaman.com"
   }
+  
+  "11": {
+    "id": "11",
+    "name": "Tara News",
+    "description": "Tara Newz was an Indian Bengali-language satellite and cable 24-hour news and current affairs television channel owned by the Saradha Group, a chit fund company.",
+    "live_url": "http://139.59.6.192:8002/taranews/taranews/index.m3u8",
+    "thumbnail": "tara_new.png",
+    "facebook": "https://www.facebook.com/taratv/",
+    "youtube": "https://www.youtube.com/@TARANEWSOFFICIAL",
+    "website": "https://www.taratvnetwork.com/",
+    "category": "m3u8",    
+    "liveTvLink":"https://www.taratvnetwork.com/",
+    "contact":"taranews2018@gmail.com"
+  },
+}

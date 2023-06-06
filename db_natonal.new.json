@@ -16,7 +16,7 @@
     "id": "1",
     "name": "India TV",
     "description": "Live TV: India TV Watch Online TV Channel News and Live Streaming, Breaking Live TV News and Exclusive News 24x7 India and all over the world on India TV",
-    "live_url": "https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index_3.m3u",
+    "live_url": "https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index_3.m3u8",
     "thumbnail": "indiaTV.png",
     "facebook": "https://www.facebook.com/indiatvnews",
     "youtube": "https://www.youtube.com/IndiaTV",

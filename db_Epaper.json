@@ -1,0 +1,54 @@
+{
+  "0": {
+    "id": "0",
+    "name": "Anandabazar Patrika",
+    "description": "",
+    "live_url": "https://epaper.anandabazar.com/",
+    "thumbnail": "aajTak.png",
+    "facebook": "",
+    "youtube": "",
+    "website": "",
+    "category": "ePaper",
+    "liveTvLink":"",
+    "contact":""
+  },
+  "1": {
+    "id": "1",
+    "name": "Ekdin Epaper",
+    "description": "",
+    "live_url": "https://www.ekdin-epaper.com/",
+    "thumbnail": "aajTak.png",
+    "facebook": "",
+    "youtube": "",
+    "website": "",
+    "category": "ePaper",
+    "liveTvLink":"",
+    "contact":""
+  },
+  "2": {
+    "id": "2",
+    "name": "Sangbad Pratidin",
+    "description": "",
+    "live_url": "https://epaper.sangbadpratidin.in/",
+    "thumbnail": "aajTak.png",
+    "facebook": "",
+    "youtube": "",
+    "website": "",
+    "category": "ePaper",
+    "liveTvLink":"",
+    "contact":""
+  },
+  "3": {
+    "id": "3",
+    "name": "Jago Bangla",
+    "description": "",
+    "live_url": "https://epaper.jagobangla.in/",
+    "thumbnail": "aajTak.png",
+    "facebook": "",
+    "youtube": "",
+    "website": "",
+    "category": "ePaper",
+    "liveTvLink":"",
+    "contact":""
+  }
+}
